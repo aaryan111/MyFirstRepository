@@ -1,1 +1,2 @@
-# MyFirstRepository
+ MyFirstRepository
+ Hello SugarLabs
